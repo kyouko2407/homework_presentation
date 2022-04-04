@@ -21,6 +21,7 @@ body {
     width: 380px;
     height: 510px;
     transition: transform 1s;
+    top: 50px;
 }
 
 .paper {
